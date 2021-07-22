@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UJdP9pT5fU5d5nPKMwF03Lco0n6VeMiinqklJ6Ikm6G/3P1hkdy/g+bflisjq/v34ft+/XCeTdMqu8vN2VEZqQ==",
+  "success": true,
+  "projectFilePath": "/Users/hoangphongle/DocumentTechnology/DevOps/Kubernetes/prometheus-grafana/WebApp/WebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/hoangphongle/.nuget/packages/prometheus-net/4.2.0/prometheus-net.4.2.0.nupkg.sha512",
+    "/Users/hoangphongle/.nuget/packages/prometheus-net.aspnetcore/4.2.0/prometheus-net.aspnetcore.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
